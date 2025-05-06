@@ -6,16 +6,16 @@ Welcome! This portfolio showcases my hands-on projects in cloud computing and bi
 
 | 🚀 Project | 📄 Description |
 ------------- | -------------
-[Stock Anomaly Detection System](https://github.com/Satvik-ai/GCP_Stock_Anomaly_Detection_System) | Real-time stock anomaly detection system using Kafka and Spark Streaming.
-[Real-time Image Classification](https://github.com/Satvik-ai/GCP_Real-time_Image_Classification) | A cloud-based real-time image classification pipeline using VMs.
-[Decision Tree Classifier Using Spark MLlib](https://github.com/Satvik-ai/GCP_Spark-MLlib) | A decision tree classifier for handwritten digit recognition using Spark's distributed implementation.
-[Real-time Row Counter](https://github.com/Satvik-ai/GCP_Real-time_Streaming_Application_Using_Kafka_And_Spark-Streaming) | A real-time streaming application using **Kafka** and **Spark Streaming**.
-[Real-time Row Counter 2](https://github.com/Satvik-ai/GCP_Real-time_Count_Lines_Using_Cloud_Functions_Pub-Sub) | Count the number of lines in a file in real-time using **Google Cloud Functions** and **Pub/Sub**.
-[SCD Type-II - SparkSQL](https://github.com/Satvik-ai/GCP_SparkSQL_SCD_Type-II) | A SparkSQL code to implement SCD Type II on a customer master data frame.
-[SCD Type-II - PySpark](https://github.com/Satvik-ai/GCP_Spark_SCD_Type-II) | A PySpark code to implement SCD Type II on a customer master data frame without using SparkSQL.
+[Stock Anomaly Detection System](https://github.com/Satvik-ai/GCP_Stock_Anomaly_Detection_System) | Detects anomalies in live stock price streams using **Apache Kafka** and **Spark Streaming** with alerting logic.
+[Real-time Image Classification](https://github.com/Satvik-ai/GCP_Real-time_Image_Classification) | Classifies images uploaded to a GCS bucket in real-time using a GCP VM and a pre-trained deep learning model.
+[Digit Classification with Spark MLlib](https://github.com/Satvik-ai/GCP_Spark-MLlib) | 	Trains a decision tree model on handwritten digit data using **Spark MLlib** in a distributed environment.
+[Streaming Row Counter (Kafka + Spark)](https://github.com/Satvik-ai/GCP_Real-time_Streaming_Application_Using_Kafka_And_Spark-Streaming) | Real-time line counting system using **Kafka producers** and **Spark Streaming consumers**.
+[Row Counter via Cloud Functions + Pub/Sub](https://github.com/Satvik-ai/GCP_Real-time_Count_Lines_Using_Cloud_Functions_Pub-Sub) | Serverless app that counts file lines using **Cloud Functions**, **GCS triggers**, and **Pub/Sub**.
+[SCD Type-II - SparkSQL](https://github.com/Satvik-ai/GCP_SparkSQL_SCD_Type-II) | Implements Slowly Changing Dimension (SCD) Type-II logic using **Spark SQL** on customer master data.
+[SCD Type-II - PySpark](https://github.com/Satvik-ai/GCP_Spark_SCD_Type-II) | Similar to the above but written purely in **PySpark DataFrame API** without SparkSQL.
 [Spark Click Counter](https://github.com/Satvik-ai/GCP_Spark_Count_Clicks) |  A Spark code for finding the number of users clicks between 0-6 hr, 6-12 hr, 12-18 hr, and 18-24 hr using hashing-based methodology.
-[Count Lines Using Cloud Functions](https://github.com/Satvik-ai/GCP_Cloud_Functions_Count_Lines) | A Python program to count the lines of a file that is placed in Google Cloud Storage bucket using Google Cloud Functions.
-[VM Count Lines](https://github.com/Satvik-ai/GCP_VM_Count_lines) | Deployed a Virtual Machine on GCP and wrote a Python program to count lines of a file placed in GCS bucket.
+[Cloud Function based Line Counter](https://github.com/Satvik-ai/GCP_Cloud_Functions_Count_Lines) | A Python program to count the lines of a file that is placed in Google Cloud Storage bucket using Google Cloud Functions.
+[VM-based Line Counter](https://github.com/Satvik-ai/GCP_VM_Count_lines) | Deployed a Virtual Machine on GCP and wrote a Python program to count lines of a file placed in GCS bucket.
 
 ---
 
