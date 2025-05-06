@@ -1,6 +1,10 @@
-# My Cloud Computing - Big Data Project Portfolio
+# ☁️ Cloud Computing & Big Data Portfolio
 
-Project Name  | Description 
+Welcome! This portfolio showcases my hands-on projects in cloud computing and big data analytics using technologies like **Apache Spark**, **Kafka**, **Google Cloud Platform (GCP)**, and **real-time streaming architectures**. These projects demonstrate my ability to design, build, and deploy scalable cloud-native data solutions.
+
+---
+
+| 🚀 Project | 📄 Description |
 ------------- | -------------
 [Stock Anomaly Detection System](https://github.com/Satvik-ai/GCP_Stock_Anomaly_Detection_System) | Real-time stock anomaly detection system using Kafka and Spark Streaming.
 [Real-time Image Classification](https://github.com/Satvik-ai/GCP_Real-time_Image_Classification) | A cloud-based real-time image classification pipeline using VMs.
@@ -12,3 +16,16 @@ Project Name  | Description
 [Spark Click Counter](https://github.com/Satvik-ai/GCP_Spark_Count_Clicks) |  A Spark code for finding the number of users clicks between 0-6 hr, 6-12 hr, 12-18 hr, and 18-24 hr using hashing-based methodology.
 [Count Lines Using Cloud Functions](https://github.com/Satvik-ai/GCP_Cloud_Functions_Count_Lines) | A Python program to count the lines of a file that is placed in Google Cloud Storage bucket using Google Cloud Functions.
 [VM Count Lines](https://github.com/Satvik-ai/GCP_VM_Count_lines) | Deployed a Virtual Machine on GCP and wrote a Python program to count lines of a file placed in GCS bucket.
+
+---
+
+## 📫 Contact
+
+Feel free to connect with me for collaborations, feedback, or opportunities.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/satvik-chandrakar-4008471ba)
+- 📧 [Email](mailto:chandrakarsatvik@gmail.com)
+
+---
+
+_Thank you for visiting my portfolio!_
